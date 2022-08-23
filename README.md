@@ -1,4 +1,4 @@
-# Hello world, I'm Mathias 👋🤓
+# Hello world, I'm Mathias 👋
 - 🌱 I'm currently learning Web Development at JovenesAProgramar! 
 - 🦾 I'm very curious. I love to learn something new everyday!
 
