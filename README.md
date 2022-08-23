@@ -1,7 +1,8 @@
 # Hello world, I'm Mathias 👋
 - 🌱 I'm currently learning Web Development at JovenesAProgramar! 
+- 📍  Living in Uruguay.
 - 🦾 I'm very curious. I love to learn something new everyday!
-< '</>'
+- 
 <!--
 **na7hk3r/na7hk3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
