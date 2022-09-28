@@ -2,6 +2,7 @@
 - 🌱 I'm currently learning Front-end Web Development at Jovenes a Programar | Ceibal, Uruguay. 
 - 📍  I live in the city which Julio Sosa was born.
 - 🦾 I'm very curious. I love to learn something new everyday!
+
 <!--
 **na7hk3r/na7hk3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na7hk3r)](https://github.com/anuraghazra/github-readme-stats)
