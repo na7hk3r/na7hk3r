@@ -1,4 +1,4 @@
-# Hello w0rld, I'm Mathias 👋
+# Hello w0rld, I'm Mathias 🤓
 
 - 🌱 I'm currently learning Front-end Web Development at Jovenes a Programar | Ceibal, Uruguay. 
 - 📍  I live in the city which Julio Sosa was born.
