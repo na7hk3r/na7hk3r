@@ -3,6 +3,9 @@
 - 📍  I live in the city which Julio Sosa was born.
 - 🦾 I'm very curious. I love to learn something new everyday!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na7hk3r&show_icons=true&count_private=true&hide=stars,issues&theme=nightOwl)](https://github.com/uscudum/github-readme-stats)
+
+
 <!--
 **na7hk3r/na7hk3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
