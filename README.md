@@ -1,7 +1,9 @@
-# Hello world, I'm Mathias 👋
+# Hello w0rld, I'm Mathias 👋
+
 - 🌱 I'm currently learning Front-end Web Development at Jovenes a Programar | Ceibal, Uruguay. 
 - 📍  I live in the city which Julio Sosa was born.
 - 🦾 I'm very curious. I love to learn something new everyday!
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na7hk3r&show_icons=true&count_private=true&hide=stars,issues&theme=github_dark)](https://github.com/na7hk3r/github-readme-stats)
 
