@@ -1,6 +1,6 @@
 ## Hello w0rld, I'm Mathias 🤓
 
-![Code typing-pana (1)](https://user-images.githubusercontent.com/104522465/205208996-7dfe6e22-c44a-4192-97d7-e7a9f23f188f.png) ![footer_resized](https://user-images.githubusercontent.com/104522465/205209293-1bbb8302-2a27-44e0-acbf-7b58bd2be593.png)
+![cover-73](https://user-images.githubusercontent.com/104522465/205208996-7dfe6e22-c44a-4192-97d7-e7a9f23f188f.png)
 
 
 - 🌱 I'm currently learning Front-end Web Development at Jovenes a Programar | Ceibal, Uruguay. 
