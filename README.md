@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/104522465/205208996-7dfe6e22-c44a-4192-97d7-e7a9f23f188f.png" align="center" />
   </p>
 
-#### - 🌱 I'm currently learning React & IBM's Fullstack Software Developer. 
+#### - 🌱 I'm currently learning React & IBM's Fullstack Software Development. 
 #### - 📍  I live in the city which Julio Sosa was born.
 #### - 🦾 I'm very curious and enthusiastic. I love to learn something new everyday!
 
