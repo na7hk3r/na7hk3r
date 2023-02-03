@@ -6,9 +6,9 @@
 <img src="https://user-images.githubusercontent.com/104522465/205208996-7dfe6e22-c44a-4192-97d7-e7a9f23f188f.png" align="center" />
   </p>
 
-#### - 🌱 I'm currently learning Front-end Web Development at Jovenes a Programar | Ceibal, Uruguay. 
+#### - 🌱 I'm currently learning React & IBM's Fullstack Software Developer. 
 #### - 📍  I live in the city which Julio Sosa was born.
-#### - 🦾 I'm very curious. I love to learn something new everyday!
+#### - 🦾 I'm very curious and enthusiastic. I love to learn something new everyday!
 
 ---
 
@@ -34,3 +34,4 @@
 <img src="https://img.shields.io/badge/nathker-73-lightgrey" align="center" height="30" />
   </p>
 
+---
