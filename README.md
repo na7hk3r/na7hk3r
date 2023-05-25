@@ -8,8 +8,8 @@
 </div>
 
 #### - 🌱 I'm currently learning React & UX Design
-#### - 💻 Oracle+Alura and Digital House Student
-#### - 📍  I live in the city which Julio Sosa was born.
+#### - 💻 Oracle+Alura & Digital House Student
+#### - 📍  I live in the city where Julio Sosa was born.
 #### - 🦾 I'm very curious and enthusiastic. I love to learn something new everyday!
 
 ---
