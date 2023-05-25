@@ -1,8 +1,6 @@
 # Hello w0rld, I'm Mathias 🤓 
 <img width="16%" height="auto" margin-top="100px" src="https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png" align="right" width="100" />
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/104522465/205208996-7dfe6e22-c44a-4192-97d7-e7a9f23f188f.png" />
 </div>
@@ -12,14 +10,13 @@
 #### - 📍  I live in the city where Julio Sosa was born.
 #### - 🦾 I'm very curious and enthusiastic. I love to learn something new everyday!
 
----
 
 ## Technologies
 
 <div align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
 </div>
@@ -40,7 +37,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   </div>
   
----
+  ---
 
 ## Stats
 
@@ -55,4 +52,4 @@
     <img src="https://img.shields.io/badge/nathker-73-lightgrey" align="center" height="30" />
 </div>
 
----
+
