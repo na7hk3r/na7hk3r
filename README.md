@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/104522465/205208996-7dfe6e22-c44a-4192-97d7-e7a9f23f188f.png" />
 </div>
 
-#### - 🌱 I'm currently learning React & UX Design
+#### - 🌱 I'm currently learning React, Java & UI Design
 #### - 💻 Oracle+Alura & Digital House Student
 #### - 📍  I live in the city where Julio Sosa was born.
 #### - 🦾 I'm very curious and enthusiastic. I love to learn something new everyday!
