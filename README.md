@@ -1,10 +1,6 @@
 # Hello w0rld, I'm Mathias 🤓 
 <img width="16%" height="auto" margin-top="100px" src="https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png" align="right" width="100" />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/104522465/205208996-7dfe6e22-c44a-4192-97d7-e7a9f23f188f.png" />
-</div>
-
 #### - 🌱 I'm currently learning React, Java & UI Design
 #### - 💻 Oracle+Alura & Digital House Student
 #### - 📍  I live in the city where Julio Sosa was born.
