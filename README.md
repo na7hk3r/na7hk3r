@@ -36,15 +36,6 @@
   
   ---
 
-## Keep in touch!
-
-<div align="left">
-<a href="https//www.linkedin.com/in/mathias-curbelo-99a21b237" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:elmathi7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/></a>
-  </div>
-
----
-
 ## Stats
 
 <div align="center"> 
