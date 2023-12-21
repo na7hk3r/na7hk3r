@@ -1,9 +1,9 @@
 # Hello w0rld, I'm Mathias 🤓 
 <img width="16%" height="auto" margin-top="100px" src="https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png" align="right" width="100" />
 
-#### - 🌱 I'm currently learning Java and Astro.
+#### - 🌱 I'm currently learning Java and Python for Data Science.
 #### - 💻 Studying at Digital House AR, Certified Tech Developer.
-#### - 📍  I live in the city where Julio Sosa was born.
+#### - 📍 Uruguay. I live in the city where Julio Sosa was born.
 #### - 🦾 I'm very curious and enthusiastic. I love to learn something new everyday!
 
 
