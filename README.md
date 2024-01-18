@@ -64,8 +64,8 @@
 ## Stats
 
 <div align="center"> 
-    <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=na7hk3r&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&theme=github_dark&title_color=3e8d92&icon_color=3e8d92" alt="Mr MRF github stats"/>
-    <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=na7hk3r&layout=compact&hide_border=true&theme=github_dark&title_color=3e8d92"/>
+<img src="https://github-readme-stats.vercel.app/api?username=na7hk3r&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&theme=github_dark&title_color=3e8d92&icon_color=3e8d92" width="55%" alt="Mr MRF github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na7hk3r&layout=compact&hide_border=true&theme=github_dark&title_color=3e8d92" />
 </div>
 
 <div align="center">
