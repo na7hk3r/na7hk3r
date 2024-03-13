@@ -1,4 +1,4 @@
-<img width="16%" height="auto" margin-top="100px" src="https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png" align="right" width="100" />
+<img width="18%" height="auto" margin-top="100px" src="https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png" align="right" width="100" />
 
 ```javascript
 const na7hk3r = {
@@ -14,7 +14,7 @@ const na7hk3r = {
                 oracleNextEducation: "F2 T5 Back-end",
                 digitalHouse: "Certified Tech Developer"
                 },
- current: "I'm studying a bachelor's degree in IT at Universidad del Trabajo (UTU), Uruguay."
+ current: "I'm studying a bachelor's degree in IT at UTU, Uruguay."
 }
 ```
 
