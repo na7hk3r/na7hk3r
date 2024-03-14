@@ -26,7 +26,7 @@ const na7hk3r = {
 [![Linkedin: smcurbelo](https://img.shields.io/badge/-smcurbelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/smcurbelo/)
 [![Gmail: smcurbelo5](https://img.shields.io/badge/Gmail-D14836?style=flat-sqaure&logo=gmail&logoColor=white)](mailto:sergiomcurbelo5@gmail.com)
 [![GitHub: na7hk3r](https://img.shields.io/github/followers/na7hk3r?label=follow&style=social)](https://github.com/na7hk3r)
-[![Portfolio: smcurbelo](https://img.shields.io/badge/nathker-73-lightgrey?color=3e8d92)](https://smcurbelo.netlify.app/)
+[![Portfolio: smcurbelo](https://img.shields.io/badge/nathker-73-lightgrey?color=3e8d92)](https://smcurbelo.com/)
 
 ---
 
