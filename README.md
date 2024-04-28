@@ -39,7 +39,6 @@ const na7hk3r = {
 
 ### Stats
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=na7hk3r&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&theme=transparent&title_color=527DBC&icon_color=2B4162&text_color=c3d1d9" alt="Nathker Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na7hk3r&layout=compact&hide_border=true&theme=transparent&title_color=527DBC&text_color=c3d1d9" alt="Nathker Github Langs"/>
   <img src="https://streak-stats.demolab.com?user=na7hk3r&theme=transparent&hide_border=true&mode=weekly&ring=2B4162&fire=527DBC&currStreakNum=c3d1d9&sideNums=c3d1d9&sideLabels=527DBC&currStreakLabel=527DBC&dates=2B4162" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na7hk3r&layout=compact&hide_border=true&theme=transparent&title_color=527DBC&text_color=c3d1d9" alt="Nathker Github Langs"/>
 </div>
