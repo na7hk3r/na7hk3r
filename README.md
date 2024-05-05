@@ -6,18 +6,18 @@ const na7hk3r = {
   surname: "curbelo",
   age: "29",
   location: "uruguay",
-  code: [Javascript, HTML, CSS, Python, Java],
-  devStack: [React, Node.js, Astro, Tailwind, Jest, Docker],
+  code: [Javascript, HTML5, CSS, Python, Java],
+  devStack: [React, Node.js, Typescript, SASS, Tailwind, Jest, Docker],
   techCourses: {
-                jovenesAProgramar: "Fullstack Web Development",
+                digitalHouse: "Certified Tech Developer",
                 oracleNextEducation: "F2 T5 Back-end",
-                digitalHouse: "Certified Tech Developer"
+                jovenesAProgramar: "Fullstack Web Development"
                 },
  current: "I'm studying a bachelor's degree in IT at UTU, Uruguay."
 }
 ```
 
-```javascript
+```code
 // I'm a very curious person! I love to learn something new everyday!
 ```
 
