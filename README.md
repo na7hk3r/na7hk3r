@@ -4,7 +4,6 @@
 const na7hk3r = {
   name: "sergio mathias",
   surname: "curbelo",
-  age: "29",
   location: "uruguay",
   code: [Javascript, HTML5, CSS, Python, Java],
   devStack: [React, Node.js, Typescript, SASS, Tailwind, Jest, Docker],
