@@ -2,18 +2,29 @@
 
 ```javascript
 const na7hk3r = {
-  name: "sergio mathias",
-  surname: "curbelo",
-  location: "uruguay",
-  code: [Javascript, HTML5, CSS, Python, Java],
-  devStack: [React, Node.js, Typescript, SASS, Tailwind, Jest, Docker],
+  name: "Sergio Mathias",
+  surname: "Curbelo",
+  location: "Uruguay",
+  code: ["Java", "JavaScript", "Python", "HTML", "CSS"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "React-Native"],
+      css: ["Tailwind", "Material Design", "SASS"],
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      java: ["SpringBoot", "Spring Security", "Junit5", "Maven"],
+    },
+    databases: ["PostgreSQL", "MySQL", "Mongo"],
+    devOps: ["Docker", "AWS"],
+  },
   techCourses: {
-                digitalHouse: "Certified Tech Developer",
-                oracleNextEducation: "F2 T5 Back-end",
-                jovenesAProgramar: "Fullstack Web Development"
-                },
- current: "I'm studying a bachelor's degree in IT at UTU, Uruguay."
-}
+    digitalHouse: "Certified Tech Developer",
+    oracleNextEducation: "F2 T5 Back-end",
+    jovenesAProgramar: "Fullstack Web Development",
+  },
+  current: "I'm studying a bachelor's degree in IT at UTU, Uruguay.",
+};
 ```
 
 ```code
