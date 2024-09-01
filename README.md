@@ -19,11 +19,12 @@ const na7hk3r = {
     devOps: ["Docker", "AWS"],
   },
   techCourses: {
+    utu_uruguay: "IT Bachelor's Degree",
     digitalHouse: "Certified Tech Developer",
     oracleNextEducation: "F2 T5 Back-end",
     jovenesAProgramar: "Fullstack Web Development",
   },
-  current: "I'm studying a bachelor's degree in IT at UTU, Uruguay.",
+  currentStudies: "Junior Genexus Analyst at Ceibal, Uruguay.",
 };
 ```
 
