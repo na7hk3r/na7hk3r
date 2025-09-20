@@ -2,11 +2,12 @@
 
 # Hi there, I'm Sergio 👋
 
-> Frontend Developer at My360 | Fullstack Developer from Uruguay
+💻 Freelance Full-Stack Developer based in Uruguay.
+🌎 Currently working remotely as a Front-End Developer, building modern and scalable web apps
 
 ```javascript
 const profile = {
-  name: "Sergio Mathias Curbelo",
+  name: "Sergio Curbelo",
   location: "Uruguay",
   currentRole: "Frontend Developer at My360",
   stack: {
