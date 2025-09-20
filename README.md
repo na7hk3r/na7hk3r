@@ -3,6 +3,7 @@
 # Hi there, I'm Sergio 👋
 
 💻 Freelance Full-Stack Developer based in Uruguay.
+
 🌎 Currently working remotely as a Front-End Developer, building modern and scalable web apps
 
 ```javascript
