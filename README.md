@@ -1,40 +1,20 @@
 <img width="18%" height="auto" src="https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png" align="right" />
 
-# Hi there, I'm Sergio 👋
+# Sergio Curbelo
 
-💻 Freelance Full-Stack Developer based in Uruguay.
+Full-Stack Developer from Uruguay.
 
-🌎 Currently working remotely as a Front-End Developer, building modern and scalable web apps
+Currently Frontend Developer @ My360.
 
-```javascript
-const profile = {
-  name: "Sergio Curbelo",
-  location: "Uruguay",
-  currentRole: "Frontend Developer at My360",
-  stack: {
-    languages: ["JavaScript", "TypeScript", "Java", "Python", "HTML", "CSS"],
-    frontend: {
-      frameworks: ["React", "React Native"],
-      styling: ["Tailwind CSS", "Material Design", "SASS"]
-    },
-    backend: {
-      javascript: ["Node.js", "Express"],
-      java: ["Spring Boot", "Spring Security"]
-    },
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
-    tools: ["Docker", "AWS", "Git", "Maven"]
-  },
-  education: [
-    "IT Bachelor's Degree - UTU Uruguay",
-    "Certified Tech Developer - Digital House",
-    "Back-end Development - Oracle Next Education",
-    "Fullstack Web Development - Jóvenes A Programar"
-  ],
-  passion: "Learning something new every day"
-};
-```
+**Tech Stack:**
+JavaScript · TypeScript · React · Node.js · Java · Spring · Docker · AWS
 
-## Skills
+**Education:**
+IT Bachelor's · Certified Tech Developer · Oracle Next Education · Jovenes A Programar
+
+**Passion:** Learning every day 😎
+
+---
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -45,15 +25,11 @@ const profile = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## About Me
-
-Passionate fullstack developer with a focus on frontend technologies. I create efficient, scalable solutions and constantly seek to expand my technical knowledge.
-
-## GitHub Stats
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=na7hk3r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
 
-## Connect With Me
+---
 
 [![GitHub: na7hk3r](https://img.shields.io/github/followers/na7hk3r?label=follow&style=social)](https://github.com/na7hk3r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smcurbelo/)
