@@ -4,8 +4,6 @@
 
 Full-Stack Developer from Uruguay.
 
-Currently Frontend Developer @ My360.
-
 **Tech Stack:**
 JavaScript · TypeScript · React · Node.js · Java · Spring · Docker · AWS
 
