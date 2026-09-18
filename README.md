@@ -2,17 +2,9 @@
 
 # Sergio Curbelo
 
-Full-Stack Developer from Uruguay.
+Full-Stack Developer from Uruguay — building with TypeScript/JavaScript, React, Node.js, Java and Spring.
 
-**Tech Stack:**
-JavaScript · TypeScript · React · Node.js · Java · Spring · Docker · AWS
-
-**Education:**
-IT Bachelor's · Certified Tech Developer · Oracle Next Education · Jovenes A Programar
-
-**Passion:** Learning every day 😎
-
----
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -23,9 +15,41 @@ IT Bachelor's · Certified Tech Developer · Oracle Next Education · Jovenes A 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+## Featured Projects
+
+- **[Nora OS](https://github.com/na7hk3r/nora-os)** — Local-first desktop workspace: multiuser, modular, with optional private AI via Ollama. *Electron · React · TypeScript*
+- **[Dune Terminal Codex](https://github.com/na7hk3r/dune-terminal-codex)** — A Dune encyclopedia in your terminal: full-text search (FTS5 + BM25) over your PDF library with fuzzy TUI search. *Rust*
+- **[Ushuaia CRM](https://github.com/na7hk3r/ushuaia-crm)** — Desktop CRM for an artisanal alfajor business: clients, production, inventory and raw materials. *Electron · React · Vite*
+- **[73lab Landing Template](https://github.com/na7hk3r/landing-template)** — Parallax landing page template with dark/light mode and trilingual support. *React · Tailwind*
+
+## Setup
+
+![Garuda Linux](https://img.shields.io/badge/OS-Garuda_Linux_(Arch)-1793D1?style=flat-square&logo=linux&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-4A5568?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=flat-square&logo=github&logoColor=white)
+
+**How I work — AI-assisted, human-driven:**
+
+AI is my pair, not my pilot: requirements, architecture and the final call are mine.
+
+- **Spec-Driven Development (SDD)** — every significant change starts as a proposal, becomes specs and design, and lands as verified tasks. No "just make it work".
+- **Receipt-driven development (RDD)** — each candidate change goes through a native review: frozen receipt, human consent, bounded corrections. The AI proposes, the human ships.
+- **Persistent memory** — decisions and context survive across sessions, so work compounds instead of restarting from zero.
+- **Local-first models** — open-source models run privately on Ollama; frontier models handle the heavy lifting.
+- **Agentic CLI workflow** — OpenCode + Claude Code + Codex + GitHub CLI: plan, build, review, ship.
+
+## Education
+
+IT Bachelor's · Certified Tech Developer · Oracle Next Education · Jovenes A Programar
+
+**Passion:** Learning every day 😎
+
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=na7hk3r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
+![GitHub streak](https://streak-stats.demolab.com?user=na7hk3r&theme=tokyonight&hide_border=true)
 
 ---
 
