@@ -1,4 +1,4 @@
-[![banner](https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png)](https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png)
+<img width="18%" height="auto" src="https://user-images.githubusercontent.com/104522465/216482629-9377f6cd-fab4-4782-bb9b-7955dde461d3.png" align="right" />
 
 # Sergio Curbelo
 
@@ -10,20 +10,19 @@
 
 ## Featured Projects
 
-- **[Dreamspell](https://github.com/na7hk3r/omarchy-dreamspell)** — Dreamspell (13-Moon) calendar bar widget and reading panel for the Omarchy desktop shell, published on the [official plugin marketplace](https://plugins.omarchy.org/plugin.html?id=nathker.dreamspell). *Shipped from design to a public marketplace listing, with the calendar engine under test.* `QML · Quickshell · JavaScript`
-- **[Nora OS](https://github.com/na7hk3r/nora-os)** — Local-first desktop workspace: multiuser, modular, with optional private AI via Ollama. *Proof that desktop apps can be private and AI-powered at the same time.* `Electron · React · TypeScript`
-- **[Dune Terminal Codex](https://github.com/na7hk3r/dune-terminal-codex)** — A Dune encyclopedia in your terminal: full-text search (FTS5 + BM25) over your PDF library with fuzzy TUI search. *Systems-level work in Rust, not just CRUD.* `Rust`
-- **[Ushuaia CRM](https://github.com/na7hk3r/ushuaia-crm)** — Desktop CRM for an artisanal alfajor business: clients, production, inventory and raw materials. *Real software, used by a real business.* `Electron · React · Vite`
+- **[Dreamspell](https://github.com/na7hk3r/omarchy-dreamspell)** — Dreamspell (13-Moon) calendar bar widget and reading panel for the Omarchy desktop shell, published on the [official plugin marketplace](https://plugins.omarchy.org/plugin.html?id=nathker.dreamspell). `QML · Quickshell · JavaScript`
+- **[Nora OS](https://github.com/na7hk3r/nora-os)** — Local-first desktop workspace: multiuser, modular, with optional private AI via Ollama. `Electron · React · TypeScript`
+- **[Dune Terminal Codex](https://github.com/na7hk3r/dune-terminal-codex)** — A Dune encyclopedia in your terminal: full-text search (FTS5 + BM25) over your PDF library with fuzzy TUI search. `Rust`
+- **[Ushuaia CRM](https://github.com/na7hk3r/ushuaia-crm)** — Desktop CRM for an artisanal alfajor business: clients, production, inventory and raw materials. `Electron · React · Vite`
 - **[73lab Landing Template](https://github.com/na7hk3r/landing-template)** — Parallax landing page template with dark/light mode and trilingual support. `React · Tailwind`
 
-## How I work — AI under my direction
+## How I work
 
-I run AI the way a tech lead runs a team: I set the architecture, the standards and the final review — agents execute under my supervision. That's the opposite of vibe coding.
+I run AI the way a tech lead runs a team: I set the architecture, the standards and the final review; agents execute under my supervision. The AI proposes — I ship.
 
-- **Orchestrated sub-agents** — an orchestrator ([gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) on OpenCode/Pi) delegates bounded tasks — explore, write, verify — to specialized sub-agents instead of one monolithic prompt. Parallel throughput, auditable output.
-- **The right model for each job** — open-source models run locally (Ollama) for privacy and near-zero marginal cost; frontier providers only where they earn their price. Providers chosen by measured performance per cost, not by hype.
-- **Efficiency a company can measure** — exploration, boilerplate and verification run in parallel; my time goes to design and decisions. More shipped per hour, lower cost per feature.
-- **Discipline over vibes** — work is specified before it's built (ODD), tested first when a test exists (TDD), and every AI-produced change is frozen and reviewed before it ships. The AI proposes; I ship.
+- **Orchestrated agents** — exploration, implementation and verification run as separate delegated tasks via [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) on OpenCode/Pi.
+- **The right model per job** — local open-source models (Ollama) for privacy and near-zero marginal cost; frontier providers only where they pay off.
+- **Specified, tested, reviewed** — work is specified before it's built (ODD), test-first when a test exists (TDD), and every AI-made change is frozen and reviewed before it ships.
 
 ## Tech Stack
 
