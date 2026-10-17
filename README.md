@@ -10,6 +10,7 @@
 
 ## Featured Projects
 
+- **[Dreamspell](https://github.com/na7hk3r/omarchy-dreamspell)** — Dreamspell (13-Moon) calendar bar widget and reading panel for the Omarchy desktop shell, published on the [official plugin marketplace](https://plugins.omarchy.org/plugin.html?id=nathker.dreamspell). *Shipped from design to a public marketplace listing, with the calendar engine under test.* `QML · Quickshell · JavaScript`
 - **[Nora OS](https://github.com/na7hk3r/nora-os)** — Local-first desktop workspace: multiuser, modular, with optional private AI via Ollama. *Proof that desktop apps can be private and AI-powered at the same time.* `Electron · React · TypeScript`
 - **[Dune Terminal Codex](https://github.com/na7hk3r/dune-terminal-codex)** — A Dune encyclopedia in your terminal: full-text search (FTS5 + BM25) over your PDF library with fuzzy TUI search. *Systems-level work in Rust, not just CRUD.* `Rust`
 - **[Ushuaia CRM](https://github.com/na7hk3r/ushuaia-crm)** — Desktop CRM for an artisanal alfajor business: clients, production, inventory and raw materials. *Real software, used by a real business.* `Electron · React · Vite`
