@@ -11,10 +11,10 @@
 ## Featured Projects
 
 - **[Dreamspell](https://github.com/na7hk3r/omarchy-dreamspell)** — Dreamspell (13-Moon) calendar bar widget and reading panel for the Omarchy desktop shell, published on the [official plugin marketplace](https://plugins.omarchy.org/plugin.html?id=nathker.dreamspell). `QML · Quickshell · JavaScript`
-- **[Nora OS](https://github.com/na7hk3r/nora-os)** — Local-first desktop workspace: multiuser, modular, with optional private AI via Ollama. `Electron · React · TypeScript`
+- **[Nora OS](https://github.com/na7hk3r/nora-os)** — Local-first desktop workspace: multiuser, modular, with optional private AI via Ollama. `Electron · React · TypeScript` · [Live](https://na7hk3r.github.io/nora-os/)
 - **[Dune Terminal Codex](https://github.com/na7hk3r/dune-terminal-codex)** — A Dune encyclopedia in your terminal: full-text search (FTS5 + BM25) over your PDF library with fuzzy TUI search. `Rust`
-- **[Ushuaia CRM](https://github.com/na7hk3r/ushuaia-crm)** — Desktop CRM for an artisanal alfajor business: clients, production, inventory and raw materials. `Electron · React · Vite`
-- **[73lab Landing Template](https://github.com/na7hk3r/landing-template)** — Parallax landing page template with dark/light mode and trilingual support. `React · Tailwind`
+- **[Ushuaia CRM](https://github.com/na7hk3r/ushuaia-crm)** — Desktop CRM for an artisanal alfajor business: clients, production, inventory and raw materials. `Electron · React · Vite` · [Landing](https://na7hk3r.github.io/ushuaia-crm/)
+- **[73lab Landing Template](https://github.com/na7hk3r/landing-template)** — Parallax landing page template with dark/light mode and trilingual support. `React · Tailwind` · [Demo](https://landing-template73.vercel.app)
 
 ## How I work
 
