@@ -47,5 +47,3 @@ I run AI the way a tech lead runs a team: I set the architecture, the standards 
 ## Education
 
 IT Bachelor's · Certified Tech Developer · Oracle Next Education · Jovenes A Programar
-
-**Passion:** Learning every day 😎
