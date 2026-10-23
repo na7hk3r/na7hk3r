@@ -2,7 +2,7 @@
 
 # Sergio Curbelo
 
-**Fullstack developer from Uruguay — I build complete web and desktop products, from design to deployment. For teams or independently.**
+**Fullstack product engineer from Uruguay — I build complete web and desktop products, from design to deployment. For teams or independently.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-147568?style=flat-square&logo=googlechrome&logoColor=white)](https://smcurbelo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smcurbelo/)
@@ -49,7 +49,3 @@ I run AI the way a tech lead runs a team: I set the architecture, the standards 
 IT Bachelor's · Certified Tech Developer · Oracle Next Education · Jovenes A Programar
 
 **Passion:** Learning every day 😎
-
----
-
-[![GitHub streak](https://streak-stats.demolab.com?user=na7hk3r&theme=tokyonight&hide_border=true)](https://github.com/na7hk3r)
